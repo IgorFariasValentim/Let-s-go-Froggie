@@ -1,0 +1,6 @@
+#macro VIEW 0
+#macro VIEW_WIDTH 1280
+#macro VIEW_HEIGHT 720
+#macro VIEW_SCALE 3
+#macro VIEW_SPEED 0.1
+

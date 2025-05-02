@@ -1,0 +1,2 @@
+seguir = false;
+cair = false;

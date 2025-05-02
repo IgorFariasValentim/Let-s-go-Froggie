@@ -1,0 +1,25 @@
+{
+  "$GMPath":"",
+  "%Name":"ph_mosq",
+  "closed":true,
+  "kind":1,
+  "name":"ph_mosq",
+  "parent":{
+    "name":"Caminhos",
+    "path":"folders/Caminhos.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":2651.0,"y":216.0,},
+    {"speed":100.0,"x":2665.229,"y":256.4048,},
+    {"speed":100.0,"x":2705.0,"y":281.0,},
+    {"speed":100.0,"x":2664.3794,"y":280.71454,},
+    {"speed":100.0,"x":2643.8486,"y":293.34283,},
+    {"speed":100.0,"x":2633.5742,"y":290.17468,},
+    {"speed":100.0,"x":2617.3972,"y":275.21008,},
+    {"speed":100.0,"x":2583.5388,"y":259.4402,},
+    {"speed":100.0,"x":2626.1494,"y":252.42249,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

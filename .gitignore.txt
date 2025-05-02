@@ -1,0 +1,13 @@
+# Ignorar arquivos compilados e temporários do GameMaker
+*.yy
+*.yyp
+*.yyz
+/datafiles/
+/options/
+/views/
+/configs/
+*.cache
+*.zip
+*.exe
+*.apk
+*.ipa
